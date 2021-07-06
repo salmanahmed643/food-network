@@ -15,7 +15,7 @@ nav a {
     font-weight: bolder;
     padding: 20px;
     display: inline-block;
-    border-right: 5px solid white;
+    border-right: 3px solid white;
     border-radius: 35px;
 }
 
@@ -92,6 +92,10 @@ nav a {
     font-size: 40px;
     font-weight: bold;
     margin-top: 140px;
+}
+.about_text span {
+    color: #E6293D;
+    border-bottom: 4px solid #E6293D;
 }
 .about_text p {
     width: 60%;
