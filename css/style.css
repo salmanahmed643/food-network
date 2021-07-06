@@ -164,3 +164,27 @@ body {
     color: #575757;
 }
 
+footer {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-image: linear-gradient(#E6293D, tomato);
+}
+.footer_text {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+footer h2 {
+    color: #ffffff;
+    font-size: 30px;
+}
+footer h2 span {
+    color: black;
+}
+footer p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
