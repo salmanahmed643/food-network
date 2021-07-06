@@ -21,11 +21,6 @@ nav a {
 
 
 
-
-
-
-
-
 .food_network {
     display: flex;
     margin-bottom: 100px;
@@ -114,6 +109,10 @@ nav a {
     width: 40%;
     text-align: center;
     margin: 0 auto;
+}
+.recipies span {
+    color: #E6293D;
+    border-bottom: 4px solid #E6293D;
 }
 .recipies h1 {
     font-size: 35px;
