@@ -214,4 +214,7 @@ footer p {
     color: #ffffff;
     font-size: 18px;
 }
-
+.network_border {
+    color: #ffffff;
+    border-bottom: 3px solid;
+}
